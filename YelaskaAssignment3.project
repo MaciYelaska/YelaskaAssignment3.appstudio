@@ -34,6 +34,30 @@
             "cityWhile",
             "cityWhile.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "forReverseStates",
+            "forReverseStates.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "functionCompare",
+            "functionCompare.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ECNestedLoops",
+            "ECNestedLoops.json"
+          ]
         }
       ],
       "configxml": null,
